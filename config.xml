@@ -9,4 +9,5 @@
 	<content src="index.html" />
 	<access origin="*" />
 	<icon src="res/kilo-icon.png" width="57" height="57" />
+	<preference name="Orientation" value="landscape" />
 </widget>

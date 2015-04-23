@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
 <file name="index.html" server="192.168.0.1/ftp_mobile/" local="129992053413375751" remote="130374870600000000" Dst="1" />
-<file name="kilo-icon.png" server="192.168.0.1/ftp_mobile/" local="129992053413500753" remote="130374870600000000" Dst="1" />
 <file name="kilo-startup.png" server="192.168.0.1/ftp_mobile/" local="129992053413625756" remote="130374870600000000" Dst="1" />
 <file name="kilo.css" server="192.168.0.1/ftp_mobile/" local="129992053413725758" remote="130374870600000000" Dst="1" />
 <file name="kilo.js" server="192.168.0.1/ftp_mobile/" local="129992053413825760" remote="130374870600000000" Dst="1" />
 <file name="manifest.php" server="192.168.0.1/ftp_mobile/" local="129992053413950762" remote="130374870600000000" Dst="1" />
 <file name="index.html" server="192.168.0.100/ftp_mobile/" local="129992053413375751" remote="130730486400000000" Dst="2" />
-<file name="kilo-icon.png" server="192.168.0.100/ftp_mobile/" local="129992053413500753" remote="130730486400000000" Dst="2" />
 <file name="kilo-startup.png" server="192.168.0.100/ftp_mobile/" local="129992053413625756" remote="130730486400000000" Dst="2" />
 <file name="kilo.css" server="192.168.0.100/ftp_mobile/" local="129992053413725758" remote="130730486400000000" Dst="2" />
 <file name="kilo.js" server="192.168.0.100/ftp_mobile/" local="129992053413825760" remote="130730486400000000" Dst="2" />
 <file name="manifest.php" server="192.168.0.100/ftp_mobile/" local="129992053413950762" remote="130730486400000000" Dst="2" />
 <file name="index.html" server="192.168.0.100/ftplodanicola/" local="130736691267246658" remote="130742698800000000" Dst="2" />
-<file name="kilo-icon.png" server="192.168.0.100/ftplodanicola/" local="129992053413500753" remote="130742698800000000" Dst="2" />
 <file name="kilo-startup.png" server="192.168.0.100/ftplodanicola/" local="129992053413625756" remote="130742698800000000" Dst="2" />
 <file name="kilo.css" server="192.168.0.100/ftplodanicola/" local="129992053413725758" remote="130742698800000000" Dst="2" />
 <file name="kilo.js" server="192.168.0.100/ftplodanicola/" local="129992053413825760" remote="130742698800000000" Dst="2" />
 <file name="manifest.php" server="192.168.0.100/ftplodanicola/" local="129992053413950762" remote="130742698800000000" Dst="2" />
+<file name="config.xml" server="192.168.0.100/ftplodanicola/" local="130742717818568045" remote="130742717400000000" Dst="2" />
 </dwsync>
