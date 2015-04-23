@@ -1,0 +1,12 @@
+<widget id="com.example.kilo" version="0.0.1">
+	<name>HelloWorld</name>
+	<description>
+		A sample Nicholas application.
+	</description>
+	<author email="nicholas1976@hotmail.it" href="http://www.ratataplan.it">
+		Nicholas Team
+	</author>
+	<content src="index.html" />
+	<access origin="*" />
+	<icon src="res/kilo-icon.png" width="57" height="57" />
+</widget>
